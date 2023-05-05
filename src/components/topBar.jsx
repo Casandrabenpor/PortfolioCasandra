@@ -18,12 +18,12 @@ export const TopBar = () => {
   return (
     <div className="topBar">
       <div class="topBar__left">
-        <div class="burger" onClick={handleBurger}>
+        <div className="burger" onClick={handleBurger}>
           <FontAwesomeIcon icon={faBars} style={{ color: "#1b1443" }} />
         </div>
       </div>
       <div class="topBar__center">
-        <ul className={isMenuOpen ? "menuList show" : "menuList"}>
+      <ul className={isMenuOpen ? "menuList show" : "menuList navLinks"}>
           <li key="home">
             <Link to="/">INICIO</Link>
           </li>
