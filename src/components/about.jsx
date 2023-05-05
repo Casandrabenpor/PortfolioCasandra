@@ -1,4 +1,4 @@
-import "../styles/about.css";
+import "../styles/about.scss";
 import Computer from "../assets/computer.jpg";
 
 export const About = () => {

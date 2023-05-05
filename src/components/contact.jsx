@@ -4,7 +4,7 @@ import Linkedin from "../assets/linkedin.png";
 import Flower from "../assets/flore.png";
 import FlowerRed from "../assets/flore_.png";
 
-import "../styles/contact.css";
+import "../styles/contact.scss";
 export const Contact = () => (<>
   <div className=" puff-in-center borderContact">
     <div className="icons">
@@ -19,7 +19,7 @@ export const Contact = () => (<>
       </a>
     </div>
   </div>
-  <div className="flowerName">
+  <div className="flowerContact">
     <img src={Flower} className="flower" alt="flower" />
  
   <div>

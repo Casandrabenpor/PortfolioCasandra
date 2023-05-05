@@ -1,4 +1,4 @@
-import "../styles/tecnologies.css";
+import "../styles/tecnologies.scss";
 import Bootstrap from "../assets/bootstrap.svg";
 import Css from "../assets/css.png";
 import Html from "../assets/html.svg";

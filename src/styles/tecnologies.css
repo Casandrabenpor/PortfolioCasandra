@@ -1,26 +1,26 @@
-.title_tecnologies{
-    text-align: center;
-    font-size: 2rem;
-    margin-bottom: 2rem;
-    font-family: 'Roboto', sans-serif;
+.title_tecnologies {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  font-family: "Roboto", sans-serif;
 }
-.icons{
-    display: flex;
-    justify-content: center;
-    gap: 3em;
-    
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 3em;
 }
-.icons img{
-    width: 50px;
-    height: 50px;
+.icons img {
+  width: 50px;
+  height: 50px;
 }
+
 @media only screen and (max-width: 1000px) {
-    .icons{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 1em;
-        
-    }
-}
+  .icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+  }
+}/*# sourceMappingURL=tecnologies.css.map */

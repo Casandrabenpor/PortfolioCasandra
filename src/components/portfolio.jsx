@@ -1,4 +1,4 @@
-import "../styles/portfolio.css";
+import "../styles/portfolio.scss";
 import HeaderCasandra from "../assets/casandra.jpg";
 import CV from "../CV.pdf";
 
