@@ -1,7 +1,7 @@
 import "../styles/projects.scss";
 import Oxygen from "../assets/oxygen-shop.png";
 import AppPhotos from "../assets/app_photos.png";
-import { BeakerIcon } from '@heroicons/react/24/solid';
+// import { BeakerIcon } from '@heroicons/react/24/solid';
 
 
 export const Projects = () => (
