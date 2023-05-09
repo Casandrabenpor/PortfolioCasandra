@@ -90,7 +90,7 @@ li {
     align-items: center;
     width: 100%;
     background-color: #eec3c3;
-    height: 100px;
+    height: 115px;
     cursor: pointer;
     position: fixed;
     /* Agregado para que la lista se posicione correctamente */
@@ -108,11 +108,10 @@ li {
 
   ul {
     list-style: none;
-    font-size: 15px;
+    font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
-
-
   }
+
 
   .burger {
     display: block;
@@ -122,23 +121,15 @@ li {
 
   .menuList {
     display: none;
-
-
     left: 0;
     width: 100%;
-    /* Ancho fijo de la lista */
-
     
   }
-
-
 
   .menuList.show {
     display: block;
 
   }
-
-
 
   .topBar__left {
     align-self: flex-start;
