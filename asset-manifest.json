@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PortfolioCasandra/static/css/main.f4ca240b.css",
+    "main.css": "/PortfolioCasandra/static/css/main.44c73d59.css",
     "main.js": "/PortfolioCasandra/static/js/main.8bb76ae7.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js",
     "static/media/flore.png": "/PortfolioCasandra/static/media/flore.52d4eea42c6e0520c6cc.png",
@@ -18,12 +18,12 @@
     "index.html": "/PortfolioCasandra/index.html",
     "static/media/bootstrap.svg": "/PortfolioCasandra/static/media/bootstrap.23f3c81257103a95e2a0a426908538c0.svg",
     "static/media/html.svg": "/PortfolioCasandra/static/media/html.451373e49fe2499995aa393ef743f0fe.svg",
-    "main.f4ca240b.css.map": "/PortfolioCasandra/static/css/main.f4ca240b.css.map",
+    "main.44c73d59.css.map": "/PortfolioCasandra/static/css/main.44c73d59.css.map",
     "main.8bb76ae7.js.map": "/PortfolioCasandra/static/js/main.8bb76ae7.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4ca240b.css",
+    "static/css/main.44c73d59.css",
     "static/js/main.8bb76ae7.js"
   ]
 }
