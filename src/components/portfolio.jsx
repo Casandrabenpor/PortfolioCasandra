@@ -6,8 +6,8 @@ export const Portfolio = () => {
     return (
         <header className=" portfolio">
             <div className="slide-in-left header_portfolio">
-                <h1>Casandra</h1>
-                <h2>Fronted Developer</h2>
+                <h1>Casandra Bennassar</h1>
+                <h2>Frontend Developer</h2>
                 <div className="">
                    <button type="button">
                    <a href={CV} download>
