@@ -19,13 +19,8 @@ export const Contact = () => (<>
       </a>
     </div>
   </div>
-  <div className="flowerContact">
-    <img src={Flower} className="flower" alt="flower" />
- 
-  <div>
-    <img src={FlowerRed} className="flower2" alt="flower" />
-  </div>
-  </div>
+
+
 </>
 
 )

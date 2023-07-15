@@ -3,6 +3,7 @@ import Oxygen from "../assets/oxygen-shop.png";
 import AppPhotos from "../assets/app_photos.png";
 import HotelMiranda from "../assets/Hotel-Miranda.png";
 import Dashboard from "../assets/Dashboard-Miranda.png";
+import DataBase from "../assets/database.jpg";
 // import { BeakerIcon } from '@heroicons/react/24/solid';
 
 
@@ -74,6 +75,20 @@ export const Projects = () => (
                     </a>
                 </div>
             </div>
+        </div>
+        <div className="slide-in-elliptic-top-fwd projects">
+            <div className="projectsCollection">
+                <h4>Database Hotel Miranda</h4>
+                <img src={DataBase} alt="Proyecto Database Hotel Miranda"></img>
+                <div className="links_project">
+                    <a href="https://github.com/Casandrabenpor/Backend-Miranda">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </div>
 )

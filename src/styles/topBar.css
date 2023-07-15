@@ -10,7 +10,6 @@ body {
   /* para centrar los elementos verticalmente */
   justify-content: center;
   color: rgb(0, 0, 0);
-  position: fixed;
   width: 100%;
   z-index: 1;
   top: 0;

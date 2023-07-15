@@ -2,8 +2,6 @@ body {
   background-color: #f7c4f7;
 }
 
-
-
 .topBar {
   display: flex;
   justify-content: space-between;
@@ -11,15 +9,11 @@ body {
   /* para centrar los elementos verticalmente */
   justify-content: center;
   color: rgb(0, 0, 0);
-  position: fixed;
   width: 100%;
   z-index: 1;
   top: 0;
   height: 10vh;
- 
-
 }
-
 
 .nav-links {
   display: flex;
@@ -50,7 +44,6 @@ body {
   background-color: #e4dada;
 }
 
-
 .burger {
   font-size: 1.2em;
   display: none;
@@ -60,8 +53,8 @@ body {
   display: flex;
   gap: 2em;
   font-size: 20px;
-  font-family:Arial, Helvetica, sans-serif;
-  a{
+  font-family: Arial, Helvetica, sans-serif;
+  a {
     color: rgb(42, 39, 39);
     text-decoration: none;
   }
@@ -76,11 +69,6 @@ ul {
 li {
   color: black;
 }
-
-
-
-
-
 
 @media only screen and (max-width: 1000px) {
   .topBar {
@@ -112,7 +100,6 @@ li {
     font-family: Arial, Helvetica, sans-serif;
   }
 
-
   .burger {
     display: block;
     width: 50px;
@@ -123,12 +110,10 @@ li {
     display: none;
     left: 0;
     width: 100%;
-    
   }
 
   .menuList.show {
     display: block;
-
   }
 
   .topBar__left {
@@ -142,7 +127,4 @@ li {
     top: 0;
     position: fixed;
   }
-
-
-
 }

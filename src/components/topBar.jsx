@@ -23,7 +23,7 @@ export const TopBar = () => {
         </div>
       </div>
       <div class="topBar__center">
-      <ul className={isMenuOpen ? "menuList show" : "menuList navLinks"}>
+        <ul className={isMenuOpen ? "menuList show" : "menuList navLinks"}>
           <li key="home">
             <Link to="/">INICIO</Link>
           </li>
@@ -33,13 +33,13 @@ export const TopBar = () => {
           <li key="proyects">
             <Link to="/proyectsPage">PROYECTOS</Link>
           </li>
-          <li key="contact">
+          {/* <li key="contact">
             <Link to="/contactPage">CONTACTO</Link>
-          </li>
+          </li> */}
         </ul>
 
       </div>
-      </div>
-      );
+    </div>
+  );
 };
 

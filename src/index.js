@@ -5,7 +5,7 @@ import { HomePage } from './pages/homePage';
 import { AboutPage } from './pages/aboutPage';
 import { ProyectsPage } from './pages/proyectsPage';
 import { ContactPage } from './pages/contactPage';
-import { HashRouter , Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from 'react-router-dom';
 // import { Provider } from 'react-redux';
 
 const container = document.getElementById('root');
@@ -17,13 +17,13 @@ root.render(
     <HashRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/aboutPage" element={<AboutPage />} /> 
-        <Route path="/proyectsPage" element={<ProyectsPage />}/>
-        <Route path="/contactPage" element={<ContactPage />}/>
+        <Route path="/aboutPage" element={<AboutPage />} />
+        <Route path="/proyectsPage" element={<ProyectsPage />} />
+        {/* <Route path="/contactPage" element={<ContactPage />}/> */}
       </Routes>
     </HashRouter>
     {/* </Provider> */}
-  </React.StrictMode>
+  </React.StrictMode>,
 );
 
 // If you want to start measuring performance in your app, pass a function
