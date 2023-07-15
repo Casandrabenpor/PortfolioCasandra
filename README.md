@@ -1,1 +1,2 @@
 Portfolio Casandra
+Estoy en pleno proceso de formación en React Redux, Html5, Css, Sass, Js, MySQL y Mongo. En mi programa de estudios, tenemos asignaciones semanales que debemos completar y entregar los viernes. Algunos de los proyectos en los que he trabajado incluyen el desarrollo de una página web para una tienda ficticia, una aplicación de edición de fotos y, actualmente, nos encontramos desarrollando un sitio web para un hotel y un panel de control.
