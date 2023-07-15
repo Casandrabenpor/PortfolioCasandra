@@ -3,7 +3,7 @@ import Computer from "../assets/computer.jpg";
 
 export const About = () => {
   return (
-    <div className="puff-in-center about">
+    <div className="slide-in-left about">
       <h3 className="title">SOBRE MÍ</h3>
       <div className="content">
         <div className="text">
