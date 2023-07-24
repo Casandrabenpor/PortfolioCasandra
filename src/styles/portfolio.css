@@ -42,6 +42,11 @@
 .portfolio h2 {
   font-family: "Roboto", sans-serif;
 }
+.portfolio .contact-info {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
 .portfolio button {
   cursor: pointer;
   border-radius: 10px;

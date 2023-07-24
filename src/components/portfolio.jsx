@@ -17,11 +17,11 @@ export const Portfolio = () => {
                         </button>
                         <a href="https://www.linkedin.com/in/casandra-bennassar-porcel">  <button className="btn-a heartbeat">¿HABLAMOS?</button></a>
                     </div>
-                    <h3>
-                        Contact
-                    </h3>
-                    <p>📞34 600 222 894</p>
-                    <p> casandra211@gmail.com</p>
+                    <div className="contact-info"> {/* Nueva clase para la información de contacto */}
+                        <h3>Contact</h3>
+                        <p>📞34 600 222 894</p>
+                        <p>casandra211@gmail.com</p>
+                    </div>
                 </div>
                 <div className="img_portfolio">
                     <img className="" src={HeaderCasandra} alt="Casandra" />
