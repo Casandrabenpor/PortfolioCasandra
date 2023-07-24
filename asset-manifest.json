@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PortfolioCasandra/static/css/main.b0dfd4bd.css",
-    "main.js": "/PortfolioCasandra/static/js/main.c6ef54c1.js",
+    "main.css": "/PortfolioCasandra/static/css/main.c202703c.css",
+    "main.js": "/PortfolioCasandra/static/js/main.c97a5400.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js",
     "static/media/flore.png": "/PortfolioCasandra/static/media/flore.52d4eea42c6e0520c6cc.png",
     "static/media/flore_.png": "/PortfolioCasandra/static/media/flore_.1f8bbda305a0a47df756.png",
     "static/media/app_photos.png": "/PortfolioCasandra/static/media/app_photos.0ecceaec1fcbdb02b520.png",
     "static/media/Hotel-Miranda.png": "/PortfolioCasandra/static/media/Hotel-Miranda.fecf21598c8dc5da07b8.png",
     "static/media/oxygen-shop.png": "/PortfolioCasandra/static/media/oxygen-shop.cf5a2f970bd0931b2662.png",
-    "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.8d325c5b623f16b1d823.pdf",
+    "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.560e7610d2fef1825785.pdf",
     "static/media/Dashboard-Miranda.png": "/PortfolioCasandra/static/media/Dashboard-Miranda.070a249e3b22bc910f8f.png",
     "static/media/casandra.jpg": "/PortfolioCasandra/static/media/casandra.dc453646423165d316ba.jpg",
     "static/media/computer.jpg": "/PortfolioCasandra/static/media/computer.3bb1bfd9596b0ed92c4e.jpg",
@@ -23,12 +23,12 @@
     "index.html": "/PortfolioCasandra/index.html",
     "static/media/bootstrap.svg": "/PortfolioCasandra/static/media/bootstrap.23f3c81257103a95e2a0a426908538c0.svg",
     "static/media/html.svg": "/PortfolioCasandra/static/media/html.451373e49fe2499995aa393ef743f0fe.svg",
-    "main.b0dfd4bd.css.map": "/PortfolioCasandra/static/css/main.b0dfd4bd.css.map",
-    "main.c6ef54c1.js.map": "/PortfolioCasandra/static/js/main.c6ef54c1.js.map",
+    "main.c202703c.css.map": "/PortfolioCasandra/static/css/main.c202703c.css.map",
+    "main.c97a5400.js.map": "/PortfolioCasandra/static/js/main.c97a5400.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0dfd4bd.css",
-    "static/js/main.c6ef54c1.js"
+    "static/css/main.c202703c.css",
+    "static/js/main.c97a5400.js"
   ]
 }
