@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PortfolioCasandra/static/css/main.c202703c.css",
-    "main.js": "/PortfolioCasandra/static/js/main.018e1a9f.js",
+    "main.js": "/PortfolioCasandra/static/js/main.b27182a2.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js",
     "static/media/flore.png": "/PortfolioCasandra/static/media/flore.52d4eea42c6e0520c6cc.png",
     "static/media/flore_.png": "/PortfolioCasandra/static/media/flore_.1f8bbda305a0a47df756.png",
     "static/media/app_photos.png": "/PortfolioCasandra/static/media/app_photos.0ecceaec1fcbdb02b520.png",
     "static/media/Hotel-Miranda.png": "/PortfolioCasandra/static/media/Hotel-Miranda.fecf21598c8dc5da07b8.png",
     "static/media/oxygen-shop.png": "/PortfolioCasandra/static/media/oxygen-shop.cf5a2f970bd0931b2662.png",
-    "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.178e6ae2a05cc0028c05.pdf",
+    "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.938187b45f65eaa654a7.pdf",
     "static/media/Dashboard-Miranda.png": "/PortfolioCasandra/static/media/Dashboard-Miranda.070a249e3b22bc910f8f.png",
     "static/media/casandra.jpg": "/PortfolioCasandra/static/media/casandra.dc453646423165d316ba.jpg",
     "static/media/computer.jpg": "/PortfolioCasandra/static/media/computer.3bb1bfd9596b0ed92c4e.jpg",
@@ -24,11 +24,11 @@
     "static/media/bootstrap.svg": "/PortfolioCasandra/static/media/bootstrap.23f3c81257103a95e2a0a426908538c0.svg",
     "static/media/html.svg": "/PortfolioCasandra/static/media/html.451373e49fe2499995aa393ef743f0fe.svg",
     "main.c202703c.css.map": "/PortfolioCasandra/static/css/main.c202703c.css.map",
-    "main.018e1a9f.js.map": "/PortfolioCasandra/static/js/main.018e1a9f.js.map",
+    "main.b27182a2.js.map": "/PortfolioCasandra/static/js/main.b27182a2.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c202703c.css",
-    "static/js/main.018e1a9f.js"
+    "static/js/main.b27182a2.js"
   ]
 }
