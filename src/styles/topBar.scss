@@ -26,6 +26,10 @@ body {
 .nav-links li {
   margin-right: 50px;
 }
+.li .activeLink {
+  border-bottom: 2px solid #dd9892;
+  color: #dd9892;
+}
 
 .nav-links a {
   color: rgb(0, 0, 0);

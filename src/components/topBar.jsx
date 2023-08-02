@@ -25,13 +25,13 @@ export const TopBar = () => {
       <div class="topBar__center">
         <ul className={isMenuOpen ? "menuList show" : "menuList navLinks"}>
           <li key="home">
-            <Link to="/">INICIO</Link>
+            <Link to="/">Inicio</Link>
           </li>
           <li key="about">
-            <Link to="/aboutPage">SOBRE MI</Link>
+            <Link to="/aboutPage">Sobre mi</Link>
           </li>
           <li key="proyects">
-            <Link to="/proyectsPage">PROYECTOS</Link>
+            <Link to="/proyectsPage">Proyectos</Link>
           </li>
           {/* <li key="contact">
             <Link to="/contactPage">CONTACTO</Link>
