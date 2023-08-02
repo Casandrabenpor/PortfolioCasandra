@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioCasandra/static/css/main.c202703c.css",
-    "main.js": "/PortfolioCasandra/static/js/main.b27182a2.js",
+    "main.js": "/PortfolioCasandra/static/js/main.0be3fb75.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js",
     "static/media/flore.png": "/PortfolioCasandra/static/media/flore.52d4eea42c6e0520c6cc.png",
     "static/media/flore_.png": "/PortfolioCasandra/static/media/flore_.1f8bbda305a0a47df756.png",
@@ -13,6 +13,7 @@
     "static/media/casandra.jpg": "/PortfolioCasandra/static/media/casandra.dc453646423165d316ba.jpg",
     "static/media/computer.jpg": "/PortfolioCasandra/static/media/computer.3bb1bfd9596b0ed92c4e.jpg",
     "static/media/database.jpg": "/PortfolioCasandra/static/media/database.915ff89b82642e298f85.jpg",
+    "static/media/php.svg": "/PortfolioCasandra/static/media/php.7c8744f2ab546f61d58d07dfd65ae401.svg",
     "static/media/gmail.png": "/PortfolioCasandra/static/media/gmail.a2f2146f929409405da0.png",
     "static/media/mysql.svg": "/PortfolioCasandra/static/media/mysql.ef0a906deea50cdbfbe2c80cc8716207.svg",
     "static/media/sass.svg": "/PortfolioCasandra/static/media/sass.6fcd775b1c62ca7d7a15c4f89c8229eb.svg",
@@ -24,11 +25,11 @@
     "static/media/bootstrap.svg": "/PortfolioCasandra/static/media/bootstrap.23f3c81257103a95e2a0a426908538c0.svg",
     "static/media/html.svg": "/PortfolioCasandra/static/media/html.451373e49fe2499995aa393ef743f0fe.svg",
     "main.c202703c.css.map": "/PortfolioCasandra/static/css/main.c202703c.css.map",
-    "main.b27182a2.js.map": "/PortfolioCasandra/static/js/main.b27182a2.js.map",
+    "main.0be3fb75.js.map": "/PortfolioCasandra/static/js/main.0be3fb75.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c202703c.css",
-    "static/js/main.b27182a2.js"
+    "static/js/main.0be3fb75.js"
   ]
 }
