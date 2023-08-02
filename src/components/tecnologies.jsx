@@ -9,6 +9,7 @@ import Redux from "../assets/redux.svg";
 import Github from "../assets/github.svg";
 import Mysql from "../assets/mysql.svg";
 import Mongo from "../assets/mongodb.svg";
+import Php from "../assets/php.svg"
 
 
 export const Tecnologies = () => {
@@ -26,6 +27,7 @@ export const Tecnologies = () => {
                 <img src={Github} alt="GitHub"></img>
                 <img src={Mysql} alt="MySQL"></img>
                 <img src={Mongo} alt="Mongo"></img>
+                <img src={Php} alt="Php"></img>
             </div>
         </div>
     )

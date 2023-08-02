@@ -8,7 +8,7 @@ export const About = () => {
       <div className="content">
         <div className="text">
           <p>
-            ¡Hola! Soy Casandra Bennassar, una desarrolladora web Full-Stack Junior de Palma de Mallorca, España. Me apasiona trabajar con tecnologías como HTML5, JavaScript, CSS, Sass, React, Redux, TypeScript, Node, MongoDB y MySQL.
+            ¡Hola! Soy Casandra Bennassar, una desarrolladora web Full-Stack Junior de Palma de Mallorca, España. Me apasiona trabajar con tecnologías como HTML5, JavaScript, CSS, Sass, React, Redux, TypeScript, Node, MongoDB, MySQL y Php.
           </p>
           <p>
             Estoy constantemente en busca de nuevas oportunidades para aprender y poner en práctica mis conocimientos.
