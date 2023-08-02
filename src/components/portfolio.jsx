@@ -1,6 +1,7 @@
 import "../styles/portfolio.scss";
 import HeaderCasandra from "../assets/casandra.jpg";
 import CV from "../CV.pdf";
+import "../styles/animation.scss";
 
 export const Portfolio = () => {
     return (
@@ -23,7 +24,7 @@ export const Portfolio = () => {
                         <p>casandra211@gmail.com</p>
                     </div>
                 </div>
-                <div className="img_portfolio">
+                <div className="shakeFix img_portfolio">
                     <img className="" src={HeaderCasandra} alt="Casandra" />
                 </div>
             </header>
