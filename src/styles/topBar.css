@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 body {
   background-color: #ffffff;
 }
@@ -56,6 +57,7 @@ body {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .menuList a {
   color: rgb(42, 39, 39);
   text-decoration: none;
@@ -84,40 +86,50 @@ li {
     position: fixed;
     /* Agregado para que la lista se posicione correctamente */
   }
+
   .nav-links {
     display: block;
     text-align: center;
     margin-top: 50px;
   }
+
   .nav-links li {
     margin-bottom: 20px;
   }
+
   ul {
     list-style: none;
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
   }
+
   .burger {
     display: block;
     width: 50px;
     /* Ancho fijo del botón */
   }
+
   .menuList {
     display: none;
     left: 0;
     width: 100%;
   }
+
   .menuList.show {
     display: block;
   }
+
   .topBar__left {
     align-self: flex-start;
     /* Agregado para posicionar el botón a la izquierda */
     margin-left: 20px;
     /* Agregado para darle un poco de espacio */
   }
+
   .topBar__center {
     top: 0;
     position: fixed;
   }
-}/*# sourceMappingURL=topBar.css.map */
+}
+
+/*# sourceMappingURL=topBar.css.map */
