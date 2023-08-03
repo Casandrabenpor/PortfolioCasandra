@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioCasandra/static/css/main.ec433ab0.css",
-    "main.js": "/PortfolioCasandra/static/js/main.007ffcef.js",
+    "main.css": "/PortfolioCasandra/static/css/main.fd147e4e.css",
+    "main.js": "/PortfolioCasandra/static/js/main.592948eb.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js",
     "static/media/flore.png": "/PortfolioCasandra/static/media/flore.52d4eea42c6e0520c6cc.png",
     "static/media/flore_.png": "/PortfolioCasandra/static/media/flore_.1f8bbda305a0a47df756.png",
@@ -24,12 +24,12 @@
     "index.html": "/PortfolioCasandra/index.html",
     "static/media/bootstrap.svg": "/PortfolioCasandra/static/media/bootstrap.23f3c81257103a95e2a0a426908538c0.svg",
     "static/media/html.svg": "/PortfolioCasandra/static/media/html.451373e49fe2499995aa393ef743f0fe.svg",
-    "main.ec433ab0.css.map": "/PortfolioCasandra/static/css/main.ec433ab0.css.map",
-    "main.007ffcef.js.map": "/PortfolioCasandra/static/js/main.007ffcef.js.map",
+    "main.fd147e4e.css.map": "/PortfolioCasandra/static/css/main.fd147e4e.css.map",
+    "main.592948eb.js.map": "/PortfolioCasandra/static/js/main.592948eb.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec433ab0.css",
-    "static/js/main.007ffcef.js"
+    "static/css/main.fd147e4e.css",
+    "static/js/main.592948eb.js"
   ]
 }
