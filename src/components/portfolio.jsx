@@ -6,7 +6,7 @@ import "../styles/animation.scss";
 export const Portfolio = () => {
     return (
         <div transition-style class="--in-custom">
-            <header className=" portfolio">
+            <header className="portfolio">
                 <div className="slide-in-left header_portfolio">
                     <h1>Casandra Bennassar</h1>
                     <h2>Frontend Developer</h2>
@@ -16,7 +16,9 @@ export const Portfolio = () => {
                                 DESCARGA CV
                             </a>
                         </button>
-                        <a href="https://www.linkedin.com/in/casandra-bennassar-porcel">  <button className="btn-a heartbeat">¿HABLAMOS?</button></a>
+                        <a href="https://www.linkedin.com/in/casandra-bennassar-porcel" target="_blank">
+                            <button className="btn-a heartbeat">¿HABLAMOS?</button>
+                        </a>
                     </div>
                     <div className="contact-info">
                         <h3>Contact</h3>
