@@ -1,8 +1,8 @@
 import "../styles/projects.scss";
-import Oxygen from "../assets/oxygen-shop.png";
-import AppPhotos from "../assets/app_photos.png";
+import Oxygen from "../assets/oxygen.png";
+import AppPhotos from "../assets/app.png";
 import HotelMiranda from "../assets/Hotel-Miranda.png";
-import Dashboard from "../assets/Dashboard-Miranda.png";
+import Dashboard from "../assets/dashboard.png";
 import DataBase from "../assets/database.jpg";
 import Travelance from "../assets/travelance.png";
 import Matriculas from "../assets/matricula.png";
