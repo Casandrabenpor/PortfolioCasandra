@@ -1,8 +1,7 @@
 import Email from "../assets/gmail.png";
 import Github from "../assets/github.svg";
 import Linkedin from "../assets/linkedin.png";
-import Flower from "../assets/flore.png";
-import FlowerRed from "../assets/flore_.png";
+
 
 import "../styles/contact.scss";
 export const Contact = () => (<>

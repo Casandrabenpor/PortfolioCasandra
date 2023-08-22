@@ -16,7 +16,7 @@ export const Portfolio = () => {
                                 DESCARGA CV
                             </a>
                         </button>
-                        <a href="https://www.linkedin.com/in/casandra-bennassar-porcel" target="_blank">
+                        <a href="https://www.linkedin.com/in/casandra-bennassar-porcel" target="_blank" rel="noopener noreferrer">
                             <button className="btn-a heartbeat">¿HABLAMOS?</button>
                         </a>
                     </div>

@@ -4,7 +4,6 @@ import reportWebVitals from './reportWebVitals';
 import { HomePage } from './pages/homePage';
 import { AboutPage } from './pages/aboutPage';
 import { ProyectsPage } from './pages/proyectsPage';
-import { ContactPage } from './pages/contactPage';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 // import { Provider } from 'react-redux';
 
