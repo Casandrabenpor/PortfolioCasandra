@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Skranji&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Roboto+Serif:ital,opsz,wght@1,8..144,100&family=Skranji&display=swap');
+
 .about {
   margin-top: 10%;
 
@@ -5,7 +8,7 @@
     text-align: center;
     font-size: 2rem;
     margin-bottom: 2rem;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'DM Serif Display', serif;
   }
 
   .content {
@@ -17,7 +20,7 @@
 
   .text {
     flex-basis: 50%;
-    font-family: Open Sans, sans-serif;
+    font-family: 'DM Serif Display', serif;
     font-size: 25px;
     margin: 0auto;
     color: #fff;

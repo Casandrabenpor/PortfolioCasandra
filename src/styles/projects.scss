@@ -1,76 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Skranji&display=swap');
+
 .title_projects {
-        text-align: center;
-        font-size: 2rem;
-        margin-bottom: 2rem;
-        margin-top: 10%;
-        font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 10%;
+  font-family: 'DM Serif Display', serif;
 }
 
 .projects {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
 
-        .projectsCollection {
-                align-items: center;
-                background-color: #fff;
-                border: 5px solid #cecddc;
-                border-radius: 25px;
+  .projectsCollection {
+    align-items: center;
+    background-color: #fff;
+    border: 5px solid #cecddc;
+    border-radius: 25px;
 
-                color: #3d4449;
-                display: flex;
-                flex-direction: column;
-                height: auto;
-                letter-spacing: 2px;
-                margin-bottom: 5rem;
-                min-height: 380px;
-                min-width: 315px;
-                cursor: pointer;
-        }
+    color: #3d4449;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    letter-spacing: 2px;
+    margin-bottom: 5rem;
+    min-height: 380px;
+    min-width: 315px;
+    cursor: pointer;
+  }
 
-        .projectsCollection:hover {
-                transform: scale(1.08);
-                box-shadow: 2px 5px 10px #f6457a;
-                transition: transform 0.5s ease-in-out;
-        }
+  .projectsCollection:hover {
+    transform: scale(1.08);
+    box-shadow: 2px 5px 10px #f6457a;
+    transition: transform 0.5s ease-in-out;
+  }
 
-        .projectsCollection img {
-                width: 99%;
-                height: 250px;
-                object-fit: cover;
+  .projectsCollection img {
+    width: 99%;
+    height: 250px;
+    object-fit: cover;
+  }
 
-        }
+  .projectsCollection h4 {
+    color: #3d4449;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+  }
 
-        .projectsCollection h4 {
-                color: #3d4449;
-                font-size: 16px;
-                font-weight: 700;
-                text-align: center;
-        }
+  .links_project {
+    display: flex;
+    flex-direction: row;
+    gap: 5em;
+  }
 
-        .links_project {
-                display: flex;
-                flex-direction: row;
-                gap: 5em;
-        }
-
-        .projectsCollection svg {
-                margin-top: 30%;
-                background-color: rgb(250, 145, 240);
-                border-radius: 50px;
-                color: white;
-                display: flex;
-                justify-content: center;
-                height: 45px;
-                width: 40px;
-
-        }
+  .projectsCollection svg {
+    margin-top: 30%;
+    background-color: rgb(250, 145, 240);
+    border-radius: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 45px;
+    width: 40px;
+  }
 }
 
 .slide-in-elliptic-top-fwd {
-        -webkit-animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-        animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  -webkit-animation: slide-in-elliptic-top-fwd 0.7s
+    cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94)
+    both;
 }
 
 /* ----------------------------------------------
@@ -86,51 +88,49 @@
  * ----------------------------------------
  */
 @-webkit-keyframes slide-in-elliptic-top-fwd {
-        0% {
-                -webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
-                transform: translateY(-600px) rotateX(-30deg) scale(0);
-                -webkit-transform-origin: 50% 100%;
-                transform-origin: 50% 100%;
-                opacity: 0;
-        }
+  0% {
+    -webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
+    transform: translateY(-600px) rotateX(-30deg) scale(0);
+    -webkit-transform-origin: 50% 100%;
+    transform-origin: 50% 100%;
+    opacity: 0;
+  }
 
-        100% {
-                -webkit-transform: translateY(0) rotateX(0) scale(1);
-                transform: translateY(0) rotateX(0) scale(1);
-                -webkit-transform-origin: 50% 1400px;
-                transform-origin: 50% 1400px;
-                opacity: 1;
-        }
+  100% {
+    -webkit-transform: translateY(0) rotateX(0) scale(1);
+    transform: translateY(0) rotateX(0) scale(1);
+    -webkit-transform-origin: 50% 1400px;
+    transform-origin: 50% 1400px;
+    opacity: 1;
+  }
 }
 
 @keyframes slide-in-elliptic-top-fwd {
-        0% {
-                -webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
-                transform: translateY(-600px) rotateX(-30deg) scale(0);
-                -webkit-transform-origin: 50% 100%;
-                transform-origin: 50% 100%;
-                opacity: 0;
-        }
+  0% {
+    -webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
+    transform: translateY(-600px) rotateX(-30deg) scale(0);
+    -webkit-transform-origin: 50% 100%;
+    transform-origin: 50% 100%;
+    opacity: 0;
+  }
 
-        100% {
-                -webkit-transform: translateY(0) rotateX(0) scale(1);
-                transform: translateY(0) rotateX(0) scale(1);
-                -webkit-transform-origin: 50% 1400px;
-                transform-origin: 50% 1400px;
-                opacity: 1;
-        }
+  100% {
+    -webkit-transform: translateY(0) rotateX(0) scale(1);
+    transform: translateY(0) rotateX(0) scale(1);
+    -webkit-transform-origin: 50% 1400px;
+    transform-origin: 50% 1400px;
+    opacity: 1;
+  }
 }
 
-
 @media only screen and (max-width: 1000px) {
-        .title_projects {
-                margin-top: 35%;
-        }
+  .title_projects {
+    margin-top: 35%;
+  }
 
-        .projectsCollection img {
-                width: 99%;
-                height: 168px;
-                object-fit: cover;
-
-        }
+  .projectsCollection img {
+    width: 99%;
+    height: 168px;
+    object-fit: cover;
+  }
 }

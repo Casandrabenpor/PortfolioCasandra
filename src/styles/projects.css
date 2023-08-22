@@ -1,9 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Skranji&display=swap");
 .title_projects {
   text-align: center;
   font-size: 2rem;
   margin-bottom: 2rem;
   margin-top: 10%;
-  font-family: "Roboto", sans-serif;
+  font-family: "DM Serif Display", serif;
 }
 
 .projects {
