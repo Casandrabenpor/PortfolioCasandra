@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/PortfolioCasandra/static/css/main.fd147e4e.css",
-    "main.js": "/PortfolioCasandra/static/js/main.b528d2d5.js",
+    "main.css": "/PortfolioCasandra/static/css/main.46924c47.css",
+    "main.js": "/PortfolioCasandra/static/js/main.6cc4a844.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js",
-    "static/media/flore.png": "/PortfolioCasandra/static/media/flore.52d4eea42c6e0520c6cc.png",
-    "static/media/flore_.png": "/PortfolioCasandra/static/media/flore_.1f8bbda305a0a47df756.png",
     "static/media/app_photos.png": "/PortfolioCasandra/static/media/app_photos.0ecceaec1fcbdb02b520.png",
     "static/media/Hotel-Miranda.png": "/PortfolioCasandra/static/media/Hotel-Miranda.fecf21598c8dc5da07b8.png",
     "static/media/travelance.png": "/PortfolioCasandra/static/media/travelance.3e90863c8b1f475b9330.png",
@@ -15,22 +13,22 @@
     "static/media/computer.jpg": "/PortfolioCasandra/static/media/computer.3bb1bfd9596b0ed92c4e.jpg",
     "static/media/database.jpg": "/PortfolioCasandra/static/media/database.915ff89b82642e298f85.jpg",
     "static/media/php.svg": "/PortfolioCasandra/static/media/php.7c8744f2ab546f61d58d07dfd65ae401.svg",
-    "static/media/gmail.png": "/PortfolioCasandra/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/matricula.png": "/PortfolioCasandra/static/media/matricula.994b242880650c5c1617.png",
     "static/media/mysql.svg": "/PortfolioCasandra/static/media/mysql.ef0a906deea50cdbfbe2c80cc8716207.svg",
     "static/media/sass.svg": "/PortfolioCasandra/static/media/sass.6fcd775b1c62ca7d7a15c4f89c8229eb.svg",
     "static/media/github.svg": "/PortfolioCasandra/static/media/github.d1bb13ce1a593d82e4c0d821dc7f1b41.svg",
     "static/media/react.svg": "/PortfolioCasandra/static/media/react.b54a1d172606449b4fec0c7b3548c6e4.svg",
     "static/media/redux.svg": "/PortfolioCasandra/static/media/redux.0316e72c2d50eafebe7b82824246ebba.svg",
-    "static/media/mongodb.svg": "/PortfolioCasandra/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
     "index.html": "/PortfolioCasandra/index.html",
+    "static/media/mongodb.svg": "/PortfolioCasandra/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
     "static/media/bootstrap.svg": "/PortfolioCasandra/static/media/bootstrap.23f3c81257103a95e2a0a426908538c0.svg",
     "static/media/html.svg": "/PortfolioCasandra/static/media/html.451373e49fe2499995aa393ef743f0fe.svg",
-    "main.fd147e4e.css.map": "/PortfolioCasandra/static/css/main.fd147e4e.css.map",
-    "main.b528d2d5.js.map": "/PortfolioCasandra/static/js/main.b528d2d5.js.map",
+    "main.46924c47.css.map": "/PortfolioCasandra/static/css/main.46924c47.css.map",
+    "main.6cc4a844.js.map": "/PortfolioCasandra/static/js/main.6cc4a844.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioCasandra/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd147e4e.css",
-    "static/js/main.b528d2d5.js"
+    "static/css/main.46924c47.css",
+    "static/js/main.6cc4a844.js"
   ]
 }
