@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/PortfolioCasandra/static/css/main.0c6b1fc2.css",
-    "main.js": "/PortfolioCasandra/static/js/main.926d80ad.js",
+    "main.js": "/PortfolioCasandra/static/js/main.d513c337.js",
     "static/js/787.aeca62f9.chunk.js": "/PortfolioCasandra/static/js/787.aeca62f9.chunk.js",
     "static/media/color-sharp.png": "/PortfolioCasandra/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/PortfolioCasandra/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/travelance.png": "/PortfolioCasandra/static/media/travelance.abf6eda7bb326d65a5c7.png",
     "static/media/app.png": "/PortfolioCasandra/static/media/app.a065e7bde5d3f8704630.png",
     "static/media/Hotel-Miranda.png": "/PortfolioCasandra/static/media/Hotel-Miranda.d5b5def69924cfd7051d.png",
     "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.96a24e051a183facf69e.pdf",
     "static/media/Portfolio.png": "/PortfolioCasandra/static/media/Portfolio.be4b942f0831a0d8b14b.png",
+    "static/media/Phonecatalog.png": "/PortfolioCasandra/static/media/Phonecatalog.32607a9740593d893cfb.png",
     "static/media/oxygen.png": "/PortfolioCasandra/static/media/oxygen.ae48ca04cfa91b10a34c.png",
     "static/media/banner-bg.png": "/PortfolioCasandra/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/PortfolioCasandra/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/travelance.png": "/PortfolioCasandra/static/media/travelance.9b05e287fc717b5a982b.png",
     "static/media/CentraNo2-Bold.ttf": "/PortfolioCasandra/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/PortfolioCasandra/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/PortfolioCasandra/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -44,11 +45,11 @@
     "static/media/javascript.svg": "/PortfolioCasandra/static/media/javascript.eb9d2cb6a3b49394e8e20873cb00479e.svg",
     "static/media/angular.svg": "/PortfolioCasandra/static/media/angular.00d10ea694079f70b937fd1d5d7afc20.svg",
     "main.0c6b1fc2.css.map": "/PortfolioCasandra/static/css/main.0c6b1fc2.css.map",
-    "main.926d80ad.js.map": "/PortfolioCasandra/static/js/main.926d80ad.js.map",
+    "main.d513c337.js.map": "/PortfolioCasandra/static/js/main.d513c337.js.map",
     "787.aeca62f9.chunk.js.map": "/PortfolioCasandra/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c6b1fc2.css",
-    "static/js/main.926d80ad.js"
+    "static/js/main.d513c337.js"
   ]
 }
