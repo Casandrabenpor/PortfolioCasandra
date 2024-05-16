@@ -5,6 +5,7 @@ import Oxygen from '../assets/img/oxygen.png';
 import AppPhotos from '../assets/img/app.png';
 import HotelMiranda from '../assets/img/Hotel-Miranda.png';
 import Dashboard from '../assets/img/dashboard.png';
+import Portfolio from '../assets/img/Portfolio.png';
 import Travelance from '../assets/img/travelance.png';
 import Matriculas from '../assets/img/matricula.png';
 import 'animate.css';
@@ -23,6 +24,12 @@ export const Projects = () => {
       description: 'Design & Development',
       imgUrl: HotelMiranda,
       url: 'https://casandrabenpor.github.io/Hotel-Miranda/',
+    },
+    {
+      title: 'Portfolio',
+      description: 'Design & Development',
+      imgUrl: Portfolio,
+      url: 'https://github.com/Casandrabenpor/Portfolio',
     },
     {
       title: 'Travelance',
