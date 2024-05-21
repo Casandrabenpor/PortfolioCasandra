@@ -8,6 +8,9 @@ import Dashboard from '../assets/img/dashboard.png';
 import Portfolio from '../assets/img/Portfolio.png';
 import Travelance from '../assets/img/travelance.png';
 import Matriculas from '../assets/img/matricula.png';
+import PhoneCatalog from '../assets/img/Phonecatalog.png';
+import Spotify from '../assets/img/spotify.png';
+
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -37,6 +40,12 @@ export const Projects = () => {
       imgUrl: Travelance,
       url: 'https://casandrabenpor.github.io/Project-Travelance/#',
     },
+    {
+      title: 'Phone Catalog',
+      description: 'Design & Development',
+      imgUrl: PhoneCatalog,
+      url: 'https://casandrabenpor.github.io/Phone-catalog/',
+    },
   ];
   const projectsFull = [
     {
@@ -50,6 +59,12 @@ export const Projects = () => {
       description: 'Design & Development',
       imgUrl: Dashboard,
       url: 'https://dgiq3w7rj860j.cloudfront.net/#/login',
+    },
+    {
+      title: 'Spotify',
+      description: 'Design & Development',
+      imgUrl: Spotify,
+      url: 'https://github.com/Casandrabenpor/Spotify-Angular',
     },
     {
       title: 'Generador de matriculas',
