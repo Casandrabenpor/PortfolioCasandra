@@ -58,7 +58,7 @@ export const Projects = () => {
       title: 'Dashboard Hotel Miranda',
       description: 'Design & Development',
       imgUrl: Dashboard,
-      url: 'https://dgiq3w7rj860j.cloudfront.net/#/login',
+      url: 'http://141.145.198.0:5000/#/login',
     },
     {
       title: 'Spotify',
