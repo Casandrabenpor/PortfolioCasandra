@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PortfolioCasandra/static/css/main.0c6b1fc2.css",
-    "main.js": "/PortfolioCasandra/static/js/main.004c4867.js",
+    "main.js": "/PortfolioCasandra/static/js/main.17fc16ed.js",
     "static/js/787.aeca62f9.chunk.js": "/PortfolioCasandra/static/js/787.aeca62f9.chunk.js",
     "static/media/color-sharp.png": "/PortfolioCasandra/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/PortfolioCasandra/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/travelance.png": "/PortfolioCasandra/static/media/travelance.abf6eda7bb326d65a5c7.png",
     "static/media/app.png": "/PortfolioCasandra/static/media/app.a065e7bde5d3f8704630.png",
     "static/media/Hotel-Miranda.png": "/PortfolioCasandra/static/media/Hotel-Miranda.d5b5def69924cfd7051d.png",
-    "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.96a24e051a183facf69e.pdf",
+    "static/media/CV.pdf": "/PortfolioCasandra/static/media/CV.19daa4882867b0b926c7.pdf",
     "static/media/Portfolio.png": "/PortfolioCasandra/static/media/Portfolio.be4b942f0831a0d8b14b.png",
     "static/media/Phonecatalog.png": "/PortfolioCasandra/static/media/Phonecatalog.32607a9740593d893cfb.png",
     "static/media/oxygen.png": "/PortfolioCasandra/static/media/oxygen.ae48ca04cfa91b10a34c.png",
@@ -46,11 +46,11 @@
     "static/media/javascript.svg": "/PortfolioCasandra/static/media/javascript.eb9d2cb6a3b49394e8e20873cb00479e.svg",
     "static/media/angular.svg": "/PortfolioCasandra/static/media/angular.00d10ea694079f70b937fd1d5d7afc20.svg",
     "main.0c6b1fc2.css.map": "/PortfolioCasandra/static/css/main.0c6b1fc2.css.map",
-    "main.004c4867.js.map": "/PortfolioCasandra/static/js/main.004c4867.js.map",
+    "main.17fc16ed.js.map": "/PortfolioCasandra/static/js/main.17fc16ed.js.map",
     "787.aeca62f9.chunk.js.map": "/PortfolioCasandra/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c6b1fc2.css",
-    "static/js/main.004c4867.js"
+    "static/js/main.17fc16ed.js"
   ]
 }
